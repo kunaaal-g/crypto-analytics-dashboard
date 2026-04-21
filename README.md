@@ -1,7 +1,5 @@
 # crypto-analytics-dashboard
 
-# Crypto Analytics Dashboard
-
 Real-time analytics dashboard using live crypto data.
 
 ## Features
